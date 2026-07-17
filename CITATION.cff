@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+title: "Multi-trace seismic acoustic impedance inversion with low-frequency prior fusion"
+type: software
+authors:
+  - family-names: Cheng
+    given-names: Yang
+  - family-names: Yang
+    given-names: Fei
+
